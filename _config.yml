@@ -1,0 +1,36 @@
+# Dependencies
+markdown:         kramdown
+kramdown:
+  extensions: ["tables"]
+
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Danilo Aburto Vivians
+tagline:          'Computer Science, Data Science, Mining'
+url:              http://www.daniloaburto.com
+shorturl:         daniloaburto.com
+
+author:
+  name:           'Danilo Aburto Vivians'
+  url:            https://twitter.com/daniloaburto
+
+paginate:         1
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           github.com/daniloaburto/daniloaburto.github.io
+
+# This is the list of pages to include in the header of the website.
+pages_list:
+  Acerca de: '/about/'
+  Archivo: '/archive/'
+  Feed: '/atom.xml'
+
+gems:
+  - jekyll-paginate
