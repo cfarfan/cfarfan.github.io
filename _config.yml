@@ -9,14 +9,14 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Danilo Aburto Vivians
-tagline:          'Computer Science, Data Science, Mining'
-url:              http://www.daniloaburto.com
-shorturl:         daniloaburto.com
+title:            Camilo Farfán
+tagline:          'Computer Science, Web Development'
+url:              http://www.camilofarfan.com
+shorturl:         camilofarfan.com
 
 author:
-  name:           'Danilo Aburto Vivians'
-  url:            https://twitter.com/daniloaburto
+  name:           'Camilo Farfán P.'
+  url:            https://github.com/cfarfan
 
 paginate:         1
 
@@ -24,7 +24,7 @@ paginate:         1
 version:          1.0.0
 
 github:
-  repo:           github.com/daniloaburto/daniloaburto.github.io
+  repo:           github.com/cfarfan/cfarfan.github.io
 
 # This is the list of pages to include in the header of the website.
 pages_list:
